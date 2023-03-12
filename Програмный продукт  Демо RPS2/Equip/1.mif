@@ -1,0 +1,14 @@
+Version 300
+Charset "WindowsLatin1"
+Delimiter ","
+CoordSys Earth Projection 1, 1001
+Columns 1
+Klkod Integer
+Data
+
+Region 1
+  4
+82.346008 55.368387
+82.475051 55.296082
+82.516742 55.399961
+82.346008 55.368387
